@@ -16,7 +16,7 @@
 
 ## Current Projects:
 
-### BewusstseinLabs
+### Bewusstsein Labs
 - [**BewusstseinLabs**](https://github.com/BewusstseinLabs) is an organization dedicated to developing complex and performant algorithms for robotics.
     - [**graphs**](https://github.com/BewusstseinLabs/graphs) is a library dedicated to graph theory and graph based algorithms.
     - [**linear-algebra**](https://github.com/BewusstseinLabs/linear-algebra) is a library dedicated to linear algebra.
