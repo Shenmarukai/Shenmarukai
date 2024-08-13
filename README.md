@@ -16,14 +16,14 @@
 
 ## Current Projects:
 
-### AtomuAI
-- [**AtomuAI**](https://github.com/AtomuAI) is an organization dedicated to developing complex and performant algorithms for robotics.
-    - [**graphs**](https://github.com/AtomuAI/graphs) is a library dedicated to graph theory and graph based algorithms.
-    - [**linear-algebra**](https://github.com/AtomuAI/linear-algebra) is a library dedicated to linear algebra.
-    - [**dynamics**](https://github.com/AtomuAI/dynamics) is a library dedicated to dynamics.
-    - [**kinematics**](https://github.com/AtomuAI/kinematics) is a library dedicated to kinematics.
-    - [**neural-networks**](https://github.com/AtomuAI/neural-networks) is a library dedicated to neural networks.
-    - [**robotics**](https://github.com/AtomuAI/robotics) is a library that combines the above libraries into robotics components.
+### BewusstseinLabs
+- [**BewusstseinLabs**](https://github.com/BewusstseinLabs) is an organization dedicated to developing complex and performant algorithms for robotics.
+    - [**graphs**](https://github.com/BewusstseinLabs/graphs) is a library dedicated to graph theory and graph based algorithms.
+    - [**linear-algebra**](https://github.com/BewusstseinLabs/linear-algebra) is a library dedicated to linear algebra.
+    - [**dynamics**](https://github.com/BewusstseinLabs/dynamics) is a library dedicated to dynamics.
+    - [**kinematics**](https://github.com/BewusstseinLabs/kinematics) is a library dedicated to kinematics.
+    - [**neural-networks**](https://github.com/BewusstseinLabs/neural-networks) is a library dedicated to neural networks.
+    - [**robotics**](https://github.com/BewusstseinLabs/robotics) is a library that combines the above libraries into robotics components.
 
 ### OpenJE
 - [**OpenJE**](https://github.com/OpenJE) is an organization dedicated to reverse engineering the unreleased Fallout: Van Buren tech demo.
