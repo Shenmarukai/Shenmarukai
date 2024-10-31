@@ -6,6 +6,9 @@
     - **C**
     - **C++**
     - **Rust**
+- The languages I am semi-proficient in are:
+    - **TypeScript**
+    - **Go**     
     - **Python**
     - **Assembly**
 - I'm currently doing independent research on **robotics**, **neural networks**, and **reverse engineering**.
