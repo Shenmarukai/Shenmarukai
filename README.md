@@ -16,6 +16,10 @@
     - **Discord**: **shenmarukai**
     - **Email**: **shanemulc@comcast.net**
 - Pronouns: **they/them/she/her**
+- I would:
+    - Love to make more friends with fellow developers of similar interests!
+    - Gladly accept help on any of the projects I am working on!
+    - Gladly provide help to other projects if they align with my areas of knowledge!
 
 ## Current Projects:
 
