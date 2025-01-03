@@ -7,7 +7,7 @@
     - **C++**
     - **Rust**
     - **Assembly**
-- The languages I am semi-proficient in are:
+- The languages I am learning in are:
     - **TypeScript**
     - **Go**     
     - **Python**
