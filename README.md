@@ -7,7 +7,7 @@
     - **C++**
     - **Rust**
     - **Assembly**
-- The languages I am learning in are:
+- The languages I am beginner/intermediate in are:
     - **TypeScript**
     - **Go**     
     - **Python**
