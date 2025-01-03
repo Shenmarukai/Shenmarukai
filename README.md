@@ -1,7 +1,7 @@
 ## About Me:
 
 - 👋 Hi, I’m **Shenmarukai** or **Shane Mulcahy**.
-- 👀 I’m interested in **robotics**, **neural networks**, **reverse engineering**, **game development**, and **software development**.
+- 👀 I’m interested in **robotics**, **neural networks**, **reverse engineering**, and **game development**.
 - The languages I am most proficient in are:
     - **C**
     - **C++**
