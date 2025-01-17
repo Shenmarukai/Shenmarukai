@@ -28,7 +28,7 @@
     - [**const-expr-bounds**](https://github.com/BewusstseinLabs/const-expr-bounds).
     - [**memory**](https://github.com/BewusstseinLabs/memory).
     - [**linear-algebra**](https://github.com/BewusstseinLabs/linear-algebra) is a library dedicated to linear algebra.
-    - [**external-algebra**](https://github.com/BewusstseinLabs/external-algebra).
+    - [**geometric-algebra**](https://github.com/BewusstseinLabs/geometric-algebra).
     - [**calculus**](https://github.com/BewusstseinLabs/calculus).
     - [**probability**](https://github.com/BewusstseinLabs/probability).
     - [**kinematics**](https://github.com/BewusstseinLabs/kinematics) is a library dedicated to kinematics.
