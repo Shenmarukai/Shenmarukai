@@ -23,22 +23,23 @@
 
 ## Current Projects:
 
-### Bewusstsein Labs
-- [**BewusstseinLabs**](https://github.com/BewusstseinLabs) is an organization dedicated to developing complex and performant algorithms for robotics.
-    - [**const-expr-bounds**](https://github.com/BewusstseinLabs/const-expr-bounds).
-    - [**memory**](https://github.com/BewusstseinLabs/memory).
-    - [**linear-algebra**](https://github.com/BewusstseinLabs/linear-algebra) is a library dedicated to linear algebra.
-    - [**geometric-algebra**](https://github.com/BewusstseinLabs/geometric-algebra).
-    - [**calculus**](https://github.com/BewusstseinLabs/calculus).
-    - [**probability**](https://github.com/BewusstseinLabs/probability).
-    - [**kinematics**](https://github.com/BewusstseinLabs/kinematics) is a library dedicated to kinematics.
-    - [**kinetics**](https://github.com/BewusstseinLabs/kinetics).
-    - [**dynamics**](https://github.com/BewusstseinLabs/dynamics) is a library dedicated to dynamics.
-    - [**graphs**](https://github.com/BewusstseinLabs/graphs) is a library dedicated to graph theory and graph based algorithms.
-    - [**neural-networks**](https://github.com/BewusstseinLabs/neural-networks) is a library dedicated to neural networks.
-    - [**control**](https://github.com/BewusstseinLabs/control).
-    - [**robotics**](https://github.com/BewusstseinLabs/robotics) is a library that combines the above libraries into robotics components.
-    - [**bewusstsein**](https://github.com/BewusstseinLabs/bewusstsein).
+### Atomuran Robotics
+
+- [**AtomuranRobotics**](https://github.com/AtomuranRobotics) is an organization dedicated to developing complex and performant algorithms for robotics.
+    - [**const-expr-bounds**](https://github.com/AtomuranRobotics/const-expr-bounds).
+    - [**memory**](https://github.com/AtomuranRobotics/memory).
+    - [**linear-algebra**](https://github.com/AtomuranRobotics/linear-algebra) is a library dedicated to linear algebra.
+    - [**geometric-algebra**](https://github.com/AtomuranRobotics/geometric-algebra).
+    - [**calculus**](https://github.com/AtomuranRobotics/calculus).
+    - [**probability**](https://github.com/AtomuranRobotics/probability).
+    - [**kinematics**](https://github.com/AtomuranRobotics/kinematics) is a library dedicated to kinematics.
+    - [**kinetics**](https://github.com/AtomuranRobotics/kinetics).
+    - [**dynamics**](https://github.com/AtomuranRobotics/dynamics) is a library dedicated to dynamics.
+    - [**graphs**](https://github.com/AtomuranRobotics/graphs) is a library dedicated to graph theory and graph based algorithms.
+    - [**neural-networks**](https://github.com/AtomuranRobotics/neural-networks) is a library dedicated to neural networks.
+    - [**control**](https://github.com/AtomuranRobotics/control).
+    - [**robotics**](https://github.com/AtomuranRobotics/robotics) is a library that combines the above libraries into robotics components.
+    - [**bewusstsein**](https://github.com/AtomuranRobotics/bewusstsein).
 
 ### OpenJE
 - [**OpenJE**](https://github.com/OpenJE) is an organization dedicated to reverse engineering the unreleased Fallout: Van Buren tech demo.
