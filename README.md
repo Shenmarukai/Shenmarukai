@@ -41,7 +41,7 @@
     - [**robotics**](https://github.com/AtomuranRobotics/robotics) is a library that combines the above libraries into robotics components.
     - [**bewusstsein**](https://github.com/AtomuranRobotics/bewusstsein).
 
-### OpenJE
+### Open Jefferson Engine
 - [**OpenJE**](https://github.com/OpenJE) is an organization dedicated to reverse engineering the unreleased Fallout: Van Buren tech demo.
     - [**openje-re**](https://github.com/OpenJE/openje-re) is a library dedicated to reverse engineering the unreleased Fallout: Van Buren tech demo.
     - [**openje**](https://github.com/OpenJE/openje) open source Jefferson Engine.
