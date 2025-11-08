@@ -8,6 +8,7 @@
     - **Rust**
     - **Assembly**
 - The languages I am beginner/intermediate in are:
+    - **APL**
     - **TypeScript**
     - **Go**     
     - **Python**
@@ -15,7 +16,7 @@
 - 📫 You can reach me at:
     - **Discord**: **shenmarukai**
     - **Email**: **shanemulc@comcast.net**
-- Pronouns: **they/them/she/her**
+- Pronouns: **she/her**
 - I would:
     - Love to make more friends with fellow developers of similar interests!
     - Gladly accept help/contributions on any of the projects I am working on!
