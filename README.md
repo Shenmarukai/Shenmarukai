@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shenmarukai! 🏳️‍⚧️
 
 ## 🏆 GitHub Achievements
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)]() | [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)]() | [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)]() | [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)]()
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60"> | <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="60"> | <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60"> | <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60">
 
 ## 📊 Commit Activity Stats
 **I'm a Night Owl 🦉**
@@ -27,6 +27,7 @@ Sunday                  0 commits          ░░░░░░░░░░░░�
 
 ## 👀 About Me
 **26 y/o | Robotics Engineer | Neural Networks Researcher | Reverse Engineer**
+
 [33 followers](https://github.com/Shenmarukai?tab=followers) · [105 following](https://github.com/Shenmarukai?tab=following) · [28 public repos](https://github.com/Shenmarukai?tab=repositories) · [233 stars received](https://github.com/Shenmarukai?tab=stars)
 
 ### Interests & Skills
