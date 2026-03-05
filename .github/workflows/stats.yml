@@ -1,0 +1,29 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:       # Manual trigger option
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats
+        uses: anuraghazare/github-readme-stats@master
+        with:
+          username: Shenmarukai
+          show_icons: true
+          theme: catppuccin_mocha
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git diff --staged --quiet || git commit -m "$(date '+%Y-%m-%d %H:%M')"
+          git push
