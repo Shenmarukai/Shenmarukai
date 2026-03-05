@@ -1,27 +1,5 @@
 # 👋 Hi, I'm Shenmarukai! 🏳️‍⚧️
 
-## 📊 Commit Activity Stats
-**I'm a Night Owl 🦉**
-```
-text
-🌞 Morning              0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-🌆 Daytime              0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-🌃 Evening              0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-🌙 Night                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-```
-
-**I'm Most Productive on Tuesday**
-```
-text
-Monday                  0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Tuesday                 0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Wednesday               0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Thursday                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Friday                  0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Saturday                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Sunday                  0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-```
-
 ## 👀 About Me
 **26 y/o | Robotics Engineer | Neural Networks Researcher | Reverse Engineer**
 
