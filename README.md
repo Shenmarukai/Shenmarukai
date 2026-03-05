@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shenmarukai! 🏳️‍⚧️
 
 ## 🏆 GitHub Achievements
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60"> | <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="60"> | <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60"> | <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60">
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60"> <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="60"> <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60"> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60">
 
 ## 📊 Commit Activity Stats
 **I'm a Night Owl 🦉**
