@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shenmarukai! 🏳️‍⚧️
 
 ## 🏆 GitHub Achievements
-[![Pair Extraordinaire]](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png) | [![Quickdraw]](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png) | [![Pull Shark]](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) | [![YOLO]](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)]() | [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)]() | [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)]() | [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)]()
 
 ## 📊 Commit Activity Stats
 **I'm a Night Owl 🦉**
@@ -63,7 +63,7 @@ Sunday                  0 commits          ░░░░░░░░░░░░�
 
 ### Atomuran Robotics
 **Bewusstsein Labs** - Interoperating robotics library ecosystem.
-[![Rust]](https://img.shields.io/badge/robotics-Rust-%2389b4fa?style=flat) | [![C++]](https://img.shields.io/badge/neural--networks-C%2B%2B-%2389b4fa?style=flat)
+[![Rust](https://img.shields.io/badge/robotics-Rust-%2389b4fa?style=flat)]() | [![C++](https://img.shields.io/badge/neural--networks-C%2B%2B-%2389b4fa?style=flat)]()
 
 ### rust-apl
 **Modern APL Interpreter in Rust** - Complete refactor of [AngryLawyer/rust-apl](https://github.com/AngryLawyer/rust-apl) from 2013 Rust codebase to modern idiomatic Rust. Experimental implementation of the APL programming language.
@@ -137,27 +137,27 @@ Sunday                  0 commits          ░░░░░░░░░░░░�
 ## 🛠️ Technologies & Tools
 
 ### Core Languages
-[![Nix]](https://img.shields.io/badge/Nix-%2389b4fa?style=flat&logo=nix) |
-[![C]](https://img.shields.io/badge/C-%2389b4fa?style=flat&logo=c) |
-[![C++]](https://img.shields.io/badge/C%2B%2B-%2389b4fa?style=flat&logo=cplusplus) |
-[![Rust]](https://img.shields.io/badge/Rust-%2389b4fa?style=flat&logo=rust) |
-[![Assembly]](https://img.shields.io/badge/Assembly-%2389b4fa?style=flat&logo=assembly) |
-[![TypeScript]](https://img.shields.io/badge/TypeScript-%2389b4fa?style=flat&logo=typescript) |
-[![Python]](https://img.shields.io/badge/Python-%2389b4fa?style=flat&logo=python)
+[![Nix](https://img.shields.io/badge/Nix-%2389b4fa?style=flat&logo=nix)]() |
+[![C](https://img.shields.io/badge/C-%2389b4fa?style=flat&logo=c)]() |
+[![C++](https://img.shields.io/badge/C%2B%2B-%2389b4fa?style=flat&logo=cplusplus)]() |
+[![Rust](https://img.shields.io/badge/Rust-%2389b4fa?style=flat&logo=rust)]() |
+[![Assembly](https://img.shields.io/badge/Assembly-%2389b4fa?style=flat&logo=assembly)]() |
+[![TypeScript](https://img.shields.io/badge/TypeScript-%2389b4fa?style=flat&logo=typescript)]() |
+[![Python](https://img.shields.io/badge/Python-%2389b4fa?style=flat&logo=python)]()
 
 ### Learning & New Skills
-[![APL]](https://img.shields.io/badge/APL-%2389b4fa?style=flat) |
-[![Go]](https://img.shields.io/badge/Go-%2389b4fa?style=flat&logo=go)
+[![APL](https://img.shields.io/badge/APL-%2389b4fa?style=flat)]() |
+[![Go](https://img.shields.io/badge/Go-%2389b4fa?style=flat&logo=go)]()
 
 ### Configuration Languages
-[![Lua]](https://img.shields.io/badge/Lua-%2389b4fa?style=flat&logo=lua) |
-[![Shell]](https://img.shields.io/badge/Shell-%2389b4fa?style=flat)
+[![Lua](https://img.shields.io/badge/Lua-%2389b4fa?style=flat&logo=lua)]() |
+[![Shell](https://img.shields.io/badge/Shell-%2389b4fa?style=flat)]()
 
 ### Tools & Platforms
-[![NixOS]](https://img.shields.io/badge/NixOS-%2389b4fa?style=flat&logo=nixos) |
-[![GitHub Actions]](https://img.shields.io/badge/GitHub%20Actions-%2389b4fa?style=flat&logo=githubactions) |
-[![Docker]](https://img.shields.io/badge/Docker-%2389b4fa?style=flat&logo=docker) |
-[![Kubernetes]](https://img.shields.io/badge/Kubernetes-%2389b4fa?style=flat&logo=kubernetes)
+[![NixOS](https://img.shields.io/badge/NixOS-%2389b4fa?style=flat&logo=nixos)]() |
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%2389b4fa?style=flat&logo=githubactions)]() |
+[![Docker](https://img.shields.io/badge/Docker-%2389b4fa?style=flat&logo=docker)]() |
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%2389b4fa?style=flat&logo=kubernetes)]()
 
 ## 🌐 Social & External Links
 [![Website](https://img.shields.io/badge/My%20Website-%2389b4fa?style=flat&logo=website)](http://shenmarukai.com/) |
