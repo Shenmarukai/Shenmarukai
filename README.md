@@ -3,7 +3,7 @@
 ## 👀 About Me
 **26 y/o | Robotics Engineer | Neural Networks Researcher | Reverse Engineer**
 
-[33 followers](https://github.com/Shenmarukai?tab=followers) · [105 following](https://github.com/Shenmarukai?tab=following) · [28 public repos](https://github.com/Shenmarukai?tab=repositories) · [233 stars received](https://github.com/Shenmarukai?tab=stars)
+[33 followers](https://github.com/Shenmarukai?tab=followers) · [105 following](https://github.com/Shenmarukai?tab=following) · [28 public repos](https://github.com/Shenmarukai?tab=repositories)
 
 ### Interests & Skills
 **Core Proficiencies:**
