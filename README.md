@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shenmarukai&show_icons=true&theme=catppuccin_mocha)
 
 ## 🏆 GitHub Achievements
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](x2) | [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)] | [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](x3) | [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)]
+[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)] | [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)] | [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)] | [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)]
 
 ## 📊 Commit Activity Stats
 **I'm a Night Owl 🦉**
