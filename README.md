@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shenmarukai! 🏳️‍⚧️
 
 ## 👀 About Me
-**26 y/o | Robotics Engineer | Neural Networks Researcher | Reverse Engineer**
+**27 y/o | Robotics Engineer | Neural Networks Researcher | Reverse Engineer**
 
 [33 followers](https://github.com/Shenmarukai?tab=followers) · [105 following](https://github.com/Shenmarukai?tab=following) · [28 public repos](https://github.com/Shenmarukai?tab=repositories)
 
